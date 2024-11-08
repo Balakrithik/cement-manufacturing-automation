@@ -1,0 +1,29 @@
+Column Name,Description,Remarks
+Date & Time:,The date and time of the recorded data.,Actual
+Mill TPH:,Total feed of the mill in tons per hour.,Actual
+Clinker TPH:,Clinker weigh feeder in tons per hour.,Actual
+Gypsum TPH:,Gypsum weigh feeder in tons per hour.,Actual
+DFA TPH: ,Dried Fly Ash in tons per hour.,Actual
+WFA TPH:,Wet Fly Ash in tons per hour.,Actual
+Mill KW:,The power consumption of the mill in kilowatts.,Actual
+Mill I/L Temp:,The temperature at mill inlet.,Actual
+Mill O/L Temp: ,The temperature at mill outlet.,Actual
+Mill O/L BE Amp:,The mill outlet bucket elevator current/load.,Actual
+Mill Vent Fan RPM: ,The speed of the mill ventilation fan in revolutions per minute.,Actual
+Mill Vent Fan KW: ,The power consumption of the mill ventilation fan in kilowatts.,Actual
+Mill Vent BF I/L Draft:,The draft pressure at the mill ventilation fan inlet.,Actual
+Mill Vent BF O/L Draft:,The draft pressure at the mill ventilation fan outlet.,Actual
+Reject: ,The amount of material rejected by the separator.,Actual
+Sep RPM: ,The speed of the separator in revolutions per minute.,Actual
+Sep KW:,The power consumption of the separator in kilowatts.,Actual
+Sep Amp:,The separator's ampere reading or current or load.,Actual
+CA Fan RPM:,The speed of the circulating air (CA) fan in revolutions per minute.,Actual
+CA Fan KW:,The power consumption of the circulating air (CA) fan in kilowatts.,Actual
+Mill Folaphone: ,The mill fill level noise reading.,Actual
+Mill I/L Draft:,The draft pressure at the mill inlet.,Actual
+Mill O/L Draft: ,The draft pressure at the mill outlet.,Actual
+Sep. Vent I/L Draft:,The draft pressure at the inlet of separator ventilation system.,Actual
+Sep. Vent O/L Draft:,The draft pressure at the  outlet of separator ventilation system.,Actual
+Sep.Vent bag filter fan kw: ,The power consumption of the separator ventilation system bag filter fan in kilowatts.,Actual
+Sep.Vent bag filter fan rpm:,The speed of the separator ventilation system bag filter fan in revolutions per minute.,Actual
+Residue,Target quality - % Residue retained on 45 mic sieve 12 – 14,Actual
