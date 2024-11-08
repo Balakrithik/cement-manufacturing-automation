@@ -42,14 +42,10 @@ This repository documents a project aimed at optimizing and automating quality c
 Below are sample dashboards created to track the progress and performance of the automation system.
 
 ### Quality Check Interval Dashboard
-This dashboard visualizes quality check intervals and improvements over time.
+This dashboard visualizes for plant manager and improvements over time.
 
-![Quality Check Interval Dashboard](./reports/QualityCheckInterval.png)
+![plant_manager_report Dashboard](./reports/plant_manager_report.png)
 
-### Cost Savings Dashboard
-Displays the cost savings achieved through reduced manual intervention and improved efficiency.
-
-![Cost Savings Dashboard](./reports/CostSavings.png)
 
 ## 📂 Repository Structure
 
