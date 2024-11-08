@@ -29,7 +29,7 @@ This repository documents a project aimed at optimizing and automating quality c
 
 - **Programming Languages**: Python, SQL
 - **Data Analysis Libraries**: Pandas, NumPy
-- **Visualization & Reporting**: Power BI, Excel
+- **Visualization & Reporting**: Tableau, Excel
 
 ## 📈 Project Results
 
